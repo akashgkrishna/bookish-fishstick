@@ -1,4 +1,4 @@
-package has.a.relationship.early.binding;
+package has.a.relationship.early.binding.car;
 
 import has.a.relationship.car.example.Car;
 

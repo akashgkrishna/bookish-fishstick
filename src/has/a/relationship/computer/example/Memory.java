@@ -5,7 +5,7 @@ package has.a.relationship.computer.example;
  */
 
 public class Memory {
-    void loadMemory() {
+    public void loadMemory() {
         System.out.println("Loading up memory");
     }
 }

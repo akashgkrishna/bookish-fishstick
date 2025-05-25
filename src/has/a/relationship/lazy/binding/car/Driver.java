@@ -1,6 +1,4 @@
-package has.a.relationship.lazy.binding;
-
-import has.a.relationship.car.example.LazyCar;
+package has.a.relationship.lazy.binding.car;
 
 public class Driver {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package has.a.relationship.car.example;
+package has.a.relationship.lazy.binding.car;
+
+import has.a.relationship.car.example.Engine;
 
 public class LazyCar {
     private Engine engine; // Starts as null

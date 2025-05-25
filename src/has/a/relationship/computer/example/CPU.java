@@ -9,7 +9,7 @@ public class CPU {
         System.out.println("Starting up CPU");
     }
 
-    void startProcess() {
+    public void startProcess() {
         startCPU(); // Reuse method inside class
         System.out.println("CPU started");
     }

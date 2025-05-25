@@ -5,11 +5,11 @@ package has.a.relationship.car.example;
  */
 
 public class Engine {
-    void start() {
+    public void start() {
         System.out.println("Engine started");
     }
 
-    void stop() {
+    public void stop() {
         System.out.println("Engine stopped");
     }
 }
