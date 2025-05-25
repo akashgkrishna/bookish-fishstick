@@ -11,7 +11,7 @@ public class Car {
     Engine engine; // "has-a" relationship: Car has an Engine
 
     Car() {
-        this.engine = new Engine(); // / Composition: Engine is created inside Car
+        this.engine = new Engine(); // Composition: Engine is created inside Car
     }
 
     void startCar() {
